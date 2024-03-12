@@ -41,6 +41,20 @@
         <img width="100%" src="./fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg" alt="screenshot 4">
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img width="100%" src="./fastlane/metadata/android/en-US/images/phoneScreenshots/05.jpg" alt="screenshot 1">
+      </td>
+      <td align="center">
+        <img width="100%" src="./fastlane/metadata/android/en-US/images/phoneScreenshots/06.jpg" alt="screenshot 2">
+      </td>
+      <td align="center">
+        <img width="100%" src="./fastlane/metadata/android/en-US/images/phoneScreenshots/07.jpg" alt="screenshot 3">
+      </td>
+      <td align="center">
+        <img width="100%" src="./fastlane/metadata/android/en-US/images/phoneScreenshots/08.jpg" alt="screenshot 4">
+      </td>
+    </tr>
   </table>
 </div>
 
